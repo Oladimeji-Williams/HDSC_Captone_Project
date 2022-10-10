@@ -1,2 +1,2 @@
 # HDSC_Captone_Project
-Natural Language Processing project on supreme court judgement dataset on kaggle, as a capstone project in fulfilment of Hamoye Data Science Cohort.
+Natural Language Processing (NLP) project on the Supreme Court of the United State (SCOTUS) cases dataset: A capstone project in fulfilment of Hamoye Data Science Summer'22 Cohort.
